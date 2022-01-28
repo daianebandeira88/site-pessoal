@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+console.log('o console funcionou')//pra escrever
+var vel=30
+console.log(`a velocidade do seu carro é ${vel} kh/h`) 
+if(vel>60){
+    console.log('voce esta acima da velocidade multado')
+}else{
+    console.log('dirija sempre usando o cinto')
+}
+
+
